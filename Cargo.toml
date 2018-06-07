@@ -1,0 +1,8 @@
+[package]
+name = "ubertooth"
+version = "0.1.0"
+authors = ["Russell Hay <me@russellhay.com>"]
+
+[dependencies]
+libc = "^0.2"
+error-chain = "^0.11"
